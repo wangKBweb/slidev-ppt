@@ -67,7 +67,7 @@ layout: cover
 ---
 transition: fade-out
 layout: image-right
-image: './assets/xmtj.png'
+image: '/xmtj.png'
 ---
 
 # 业务方向
@@ -101,7 +101,7 @@ h1 {
 ---
 transition: fade-out
 layout: image-right
-image: './assets/commit.png'
+image: '/commit.png'
 ---
 
 # 业务方向
@@ -135,7 +135,7 @@ h1 {
 ---
 transition: slide-up
 layout: image-right
-image: './assets/new.png'
+image: '/new.png'
 ---
 
 # 团队方向
